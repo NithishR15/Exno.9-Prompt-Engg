@@ -1,6 +1,6 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-### Date: 
+### Date: 07/11/20205
 ### NAME : NITHISH R
 ### Register no: 212223040135
 
